@@ -1,0 +1,67 @@
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\MoveCarHackathonEdition.exe.config
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\MoveCarHackathonEdition.exe
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\MoveCarHackathonEdition.pdb
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.Core.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Dapper.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\EntityFramework.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\log4net.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\MySql.Data.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Newtonsoft.Json.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Quartz.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Twilio.dll
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.pdb
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.xml
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.Core.pdb
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.Core.xml
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Dapper.xml
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\EntityFramework.xml
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\log4net.xml
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Newtonsoft.Json.xml
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Quartz.pdb
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Quartz.xml
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Twilio.xml
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\obj\Debug\MoveCarHackathonEdition.exe
+c:\users\amery\documents\visual studio 2015\Projects\MoveCarHackathonEdition\MoveCarHackathonEdition\obj\Debug\MoveCarHackathonEdition.pdb
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\MoveCarHackathonEdition.exe.config
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\obj\Debug\MoveCarHackathonEdition.exe
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\obj\Debug\MoveCarHackathonEdition.pdb
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\MoveCarHackathonEdition.exe
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\MoveCarHackathonEdition.pdb
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.Core.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Dapper.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\EntityFramework.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\log4net.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\MySql.Data.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Quartz.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Twilio.dll
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.pdb
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.xml
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.Core.pdb
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Common.Logging.Core.xml
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Dapper.xml
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\EntityFramework.xml
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\log4net.xml
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Quartz.pdb
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Quartz.xml
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\bin\Debug\Twilio.xml
+C:\Users\amery\Documents\GitHub\MoveCarHackathonEdition\MoveCarHackathonEdition\obj\Debug\MoveCarHackathonEdition.csprojResolveAssemblyReference.cache
